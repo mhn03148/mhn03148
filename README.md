@@ -1,5 +1,5 @@
 # Joo Jin Hyoung 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhn03148&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhn03148&show_icons=true&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mhn03148)](https://solved.ac/mhn03148/)
 
 # Skills
