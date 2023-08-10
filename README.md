@@ -1,4 +1,4 @@
-### Hi there 👋
+### Joo Jin Hyoung 👋
 
 <!--
 **mhn03148/mhn03148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
