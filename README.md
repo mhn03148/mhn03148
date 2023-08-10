@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mhn03148)](https://solved.ac/mhn03148/)
 
 # Skills
+### Platforms & Languages
 
+### Tools
